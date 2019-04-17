@@ -7,7 +7,7 @@ Pandas, Numpy, Sklearn, and Matplotlib
 I evaluated AirBnB Seattle property listings from 2016 for a project pertaining to Data science, Analysis, and Python.
 
 3.	The files in the repository
-I included a python file containing the project. I did not include other files yet due to the 25MB size limitation.
+I included a python file containing the project. I did not include other files yet due to the 25MB file size limitation.
 
 4.	A summary of the results of the analysis
 Using the data, I needed to answer the following questions:
