@@ -4,7 +4,7 @@
 Pandas, Numpy, Sklearn, and Matplotlib
 
 2.	The Motivation for the Project
-I evaluated AirBnB Seattle property listings from 2016 for a project pertaining to Data science, Analysis, and Python.
+I chose to analyze the AirBnB Seattle property listings from 2016 for this project because this data has similarities to data sources one might see in a business setting. I have strong interest in analyzing data about property rental listings since the real estate and the hospitality industries play such a significant role in most peoples' lives. Additionally, many of the approaches I used in this project are directly applicable to my present and future work projects.
 
 3.	The files in the repository
 I included a python file containing the project. I did not include other files yet due to the 25MB file size limitation.
