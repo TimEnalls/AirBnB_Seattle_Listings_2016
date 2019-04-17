@@ -23,7 +23,8 @@ Using the data, I answered the following questions:
 
   d. What attributes in the listing data most associate or contribute to prices?
       The attributes for the cluster with the highest average price (43% higher than the mean prices across clusters):
-
+      
+      
        • Cluster 3 - host listings count, the downtown neighborhood, require guest profile picture, condominiums, etc.
 
       The attributes for the cluster with the lowest average price (43% lower than the mean prices across clusters):
@@ -31,7 +32,7 @@ Using the data, I answered the following questions:
        • Cluster 6 - private room room type, steward park neighborhood, Beacon Hill neighborhood, house property type, etc.
 
 
-    I used a k-means clustering model to answer the last question.
-
+ I used a k-means clustering model to answer the last question.
+ 
 5.	Necessary acknowledgements.
 The data I used in this analysis can be found at this URL: http://insideairbnb.com/get-the-data.html.
