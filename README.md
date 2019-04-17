@@ -10,14 +10,28 @@ I chose to analyze the AirBnB Seattle property listings from 2016 for this proje
 I included a python file containing the project. I did not include other files yet due to the 25MB file size limitation.
 
 4.	A summary of the results of the analysis
-Using the data, I needed to answer the following questions:
+Using the data, I answered the following questions:
 
-1. What months of the year have the highest average listing prices?
-2. Which neighborhoods have the highest rating review scores?
-3. Which neighborhoods have the highest listing prices?
-4. What attributes in the listing data most associate or contribute to prices?
+  a. What months of the year have the highest average listing prices?
+      The prices are highest in the summer months—June, July, and August.
 
-I used a k-means model to answer the last question.
+  b. Which neighborhoods have the highest rating review scores?
+      Central Area, West Seattle, and Delridge have the highest review score ratings. However, there isn't much variance in the review    score ratings.
+
+  c. Which neighborhoods have the highest listing prices?
+      Magnolia, Queen Anne, and Downtown have the highest listing prices.
+
+  d. What attributes in the listing data most associate or contribute to prices?
+      The attributes for the cluster with the highest average price (43% higher than the mean prices across clusters):
+
+       • Cluster 3 - host listings count, the downtown neighborhood, require guest profile picture, condominiums, etc.
+
+      The attributes for the cluster with the lowest average price (43% lower than the mean prices across clusters):
+
+       • Cluster 6 - private room room type, steward park neighborhood, Beacon Hill neighborhood, house property type, etc.
+
+
+    I used a k-means clustering model to answer the last question.
 
 5.	Necessary acknowledgements.
 The data I used in this analysis can be found at this URL: http://insideairbnb.com/get-the-data.html.
