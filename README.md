@@ -30,7 +30,9 @@ Using the data, I answered the following questions:
       Magnolia, Queen Anne, and Downtown have the highest listing prices.
 
   4. What attributes in the listing data most associate or contribute to prices?
-      The attributes for the cluster with the highest average price (43% higher than the mean prices across clusters):
+      
+
+The attributes for the cluster with the highest average price (43% higher than the mean prices across clusters):
       
       
   • Cluster 3 - host listings count, the downtown neighborhood, require guest profile picture, condominiums, etc.
