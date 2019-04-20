@@ -32,14 +32,14 @@ Using the data, I answered the following questions:
   4. What attributes in the listing data most associate or contribute to prices?
       
 
-The attributes for the cluster with the highest average price (43% higher than the mean prices across clusters):
+The attributes for the cluster with the highest average price (**43% higher** than the mean prices across clusters):
       
       
-  • Cluster 3 - host listings count, the downtown neighborhood, require guest profile picture, condominiums, etc.
+  • **Cluster 3** - host listings count, the downtown neighborhood, require guest profile picture, condominiums, etc.
 
-  The attributes for the cluster with the lowest average price (43% lower than the mean prices across clusters):
+  The attributes for the cluster with the lowest average price (**43% lower** than the mean prices across clusters):
 
-  • Cluster 6 - private room room type, steward park neighborhood, Beacon Hill neighborhood, house property type, etc.
+  • **Cluster 6** - private room room type, steward park neighborhood, Beacon Hill neighborhood, house property type, etc.
  
 
 I used a k-means clustering model to answer the last question.
