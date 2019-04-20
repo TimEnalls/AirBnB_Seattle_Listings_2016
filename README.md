@@ -10,6 +10,8 @@ Pandas, Numpy, Sklearn, and Matplotlib
 
 I chose to analyze the AirBnB Seattle property listings from 2016 for this project because this data has similarities to data sources one might see in a business setting. I have strong interest in analyzing data about property rental listings since the real estate and the hospitality industries play such a significant role in most peoples' lives. Additionally, many of the approaches I used in this project are directly applicable to my present and future work projects.
 
+To view additional visualizations regarding this analysis, feel free to visit my Medium post about this analysis: https://medium.com/@timenalls/how-to-analyze-airbnb-seattle-listings-using-data-science-approaches-8811235f6e8b
+
 
 **The files in the repository**
 
