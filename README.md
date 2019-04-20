@@ -45,6 +45,6 @@ The attributes for the cluster with the highest average price (**43% higher** th
 I used a k-means clustering model to answer the last question.
 
  
-**Necessary acknowledgements.**
+**Acknowledgements**
 
 The data I used in this analysis can be found at this URL: http://insideairbnb.com/get-the-data.html.
