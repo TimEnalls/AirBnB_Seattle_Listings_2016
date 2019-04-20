@@ -3,7 +3,10 @@
 
 **Libraries Used**
 
-Pandas, Numpy, Sklearn, and Matplotlib
+Pandas === 0.23.4
+Numpy === 1.15.4
+Scikit Learn === 0.20.1
+Matplotlib === 3.0.2
 
 
 **The Motivation for the Project**
